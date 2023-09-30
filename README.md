@@ -5,4 +5,8 @@
 import numpy  
 import scipy.special  
 import matplotlib.pyplot  
-%matplotlib inline
+%matplotlib inline  
+
+
+下列图片为需要改动的地方，需应人而异  
+!images[https://github.com/leiaoduosanyue/py-mnist-try-cpu/blob/main/pictures/test-mnist.png]
