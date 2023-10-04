@@ -11,3 +11,16 @@ import matplotlib.pyplot
 下列图片为需要改动的地方，需应人而异  
 ![images](https://github.com/leiaoduosanyue/py-mnist-try-cpu/blob/main/pictures/test-mnist.png)  
 ![images](https://github.com/leiaoduosanyue/py-mnist-try-cpu/blob/main/pictures/test-mnist.png)
+
+
+此次更新提供pytorch  gpu版本的简单数字识别1.0beta  
+  
+import torch  
+import torch.nn as nn  
+import torch.nn.functional as F  
+import torch.optim as optim  
+from torchvision import datasets, transforms  
+import random  
+import pylab  
+import matplotlib.pyplot as plt  
+ 
