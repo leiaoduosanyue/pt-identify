@@ -23,4 +23,10 @@ from torchvision import datasets, transforms
 import random  
 import pylab  
 import matplotlib.pyplot as plt  
- 
+
+  
+2023.10.14 更新手写数字识别GPU版本beta1.1   
+
+此处为新增内容说明：  
+增加了简单的ui界面，可利用鼠标绘制数字，并识别。 
+![images]（）
