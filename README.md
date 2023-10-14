@@ -28,5 +28,12 @@ import matplotlib.pyplot as plt
 2023.10.14 更新手写数字识别GPU版本beta1.1   
 
 此处为新增内容说明：  
-增加了简单的ui界面，可利用鼠标绘制数字，并识别。 
-![images]（）
+增加了简单的ui界面，可利用鼠标绘制数字，并识别。  
+
+![images]（）  
+
+ 本次更新新调用的库：  
+import tkinter as tk  
+from tkinter import Canvas, Button  
+from PIL import Image, ImageDraw,ImageGrab  
+from PIL import ImageOps  
