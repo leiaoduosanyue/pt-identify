@@ -30,7 +30,7 @@ import matplotlib.pyplot as plt
 此处为新增内容说明：  
 增加了简单的ui界面，可利用鼠标绘制数字，并识别。  
 
-![images]（）  
+![images](https://github.com/leiaoduosanyue/py-mnist-try-cpu/blob/main/pictures/屏幕截图 2023-10-14 211618.png)
 
  本次更新新调用的库：  
 import tkinter as tk  
