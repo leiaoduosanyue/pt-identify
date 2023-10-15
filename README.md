@@ -1,4 +1,4 @@
-# py-mnist-try-cpu
+# py-identify
 本人通过学习python神经网络编程这本书后，跟着书本写出的简单的手写数字识别cpu版本1.0beta
 
 #此处为调用库  
@@ -36,4 +36,7 @@ import matplotlib.pyplot as plt
 import tkinter as tk  
 from tkinter import Canvas, Button  
 from PIL import Image, ImageDraw,ImageGrab  
-from PIL import ImageOps  
+from PIL import ImageOps    
+
+更新说明：以后的更新内容会放在更新日志里写  
+
