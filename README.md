@@ -39,4 +39,6 @@ from PIL import Image, ImageDraw,ImageGrab
 from PIL import ImageOps    
 
 更新说明：以后的更新内容会放在更新日志里写  
+[点击查看更新日志](CHANGELOG.md)
+
 
