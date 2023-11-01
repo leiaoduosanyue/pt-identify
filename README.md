@@ -41,4 +41,21 @@ from PIL import ImageOps
 更新说明：以后的更新内容会放在更新日志里写  
 [点击查看更新日志](CHANGELOG.md)
 
+本次更新带来了个新类型的识别：  
+   汉字识别GPU版本beta1.0  
 
+此次调用的库有：  
+import torch  
+import torch.nn as nn  
+import torch.optim as optim  
+import torchvision.transforms as transforms  
+import torch.nn as nn  
+import torch.optim as optim  
+from torch.utils.data import DataLoader, Dataset  
+from torchvision import transforms  
+import os  
+from PIL import Image  
+from torch.utils.data import Dataset  
+import torch.nn.functional as F   
+
+汉字识别GPU版本beta1.0的使用了个简单训练集，以后的更新会逐步增加复杂性。  
